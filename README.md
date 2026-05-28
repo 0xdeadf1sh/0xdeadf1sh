@@ -1,1 +1,1 @@
-<img width="854" height="480" alt="dead_fish_banner" src="https://github.com/user-attachments/assets/92db50e9-8fbe-4057-9661-58d701f7117d" />
+<img width="511" height="361" alt="dead_fish_banner" src="https://github.com/user-attachments/assets/f9492cf7-7c14-459e-934e-193481f8ea91" />
