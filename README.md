@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="A green fish, redrawn every night from my GitHub activity" />
-</p>
+<img src="koi/koi.gif" width="100%" alt="A green fish in its tank, redrawn every night from my GitHub activity" />
